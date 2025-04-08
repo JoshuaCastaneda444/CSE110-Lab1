@@ -23,12 +23,12 @@ I am currently a third year Computer Science student at UCSD.
 
 ### CSE 168 Todo List
 
-- [x] Assignment 1 (Due: 4/14)
-- [ ] Assignment 2 (Due: 4/23)
-- [ ] Assignment 3 (Due: 5/5)
-- [ ] Assignment 4 (Due: 5/18)
-- [ ] Final Project Proposal (Due: 5/27)
-- [ ] Final Project (Due: 6/9)
+- [x]  Assignment 1 (Due: 4/14)
+- [ ]  Assignment 2 (Due: 4/23)
+- [ ]  Assignment 3 (Due: 5/5)
+- [ ]  Assignment 4 (Due: 5/18)
+- [ ]  Final Project Proposal (Due: 5/27)
+- [ ]  Final Project (Due: 6/9)
 
 ## Quote I Like
 
